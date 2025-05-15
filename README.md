@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rom1-44
-- 👀 I’m interested in finance 
+- 👀 I’m interested in finance, engineering and physics
 - 🌱 I’m currently learning machine learning for trading
 - 💞️ I’m looking to collaborate on algo trading and portfolio construction
 
